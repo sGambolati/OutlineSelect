@@ -1,7 +1,8 @@
 repo_name: sGambolati/OutlineSelect
-report_id: d4c5ca28bfbde1a7e89d5214465d7b56
+report_id: cb00ad86e6c178ca7efe3b66f16664e9
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-14T09:46:06+00:00'
+timestamp: '2024-01-04T15:05:41+00:00'
 requested_by: sGambolati
 provider: github
 branch: master
@@ -30,6 +31,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/sGambolati/OutlineSelect
   detection_source: Repo Metadata
 - name: GLSL
   description: A high-level C-style language
@@ -39,6 +41,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6548/default_a66025fbe8f221c489bdaac3a99d84e5f138cbbd.png
+  detection_source_url: https://github.com/sGambolati/OutlineSelect
   detection_source: Repo Metadata
 - name: ".NET"
   description: A free, cross-platform, open source developer platform for building
@@ -63,6 +66,7 @@ tools:
   category: Data Stores
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
+  detection_source_url: https://github.com/sGambolati/OutlineSelect/blob/master/Assets/HoloToolkit/License.txt
   detection_source: Assets/HoloToolkit/License.txt
   last_updated_by: Sebastian Ariel Gambolati
   last_updated_on: 2017-08-12 22:33:34.000000000 Z
@@ -74,6 +78,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/sGambolati/OutlineSelect
   detection_source: Repo Metadata
 - name: Visual Studio
   description: State-of-the-art tools and services that you can use to create great
@@ -84,6 +89,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Integrated Development Environment
   image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/sGambolati/OutlineSelect/blob/master/OutlineSelect.sln
   detection_source: OutlineSelect.sln
   last_updated_by: Sebastian Ariel Gambolati
   last_updated_on: 2017-08-12 22:33:34.000000000 Z
@@ -95,6 +101,7 @@ tools:
   category: Communications
   sub_category: Large Language Model Tools
   image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source_url: https://github.com/sGambolati/OutlineSelect/blob/master/Assets/HoloToolkit/License.txt
   detection_source: Assets/HoloToolkit/License.txt
   last_updated_by: Sebastian Ariel Gambolati
   last_updated_on: 2017-08-12 22:33:34.000000000 Z
